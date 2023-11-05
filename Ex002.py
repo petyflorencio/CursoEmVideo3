@@ -1,0 +1,5 @@
+print('====Desafio 2====')
+dia=input('Qual o dia que você nasceu?\n')
+mês=input('Qual o número do mês que você nasceu?\n')
+ano=input('Qual o ano que você nasceu?\n')
+print('Muito que bem, espero que esteja feliz com seu signo tendo nascido em', dia, 'do', mês, 'de', ano)
