@@ -7,4 +7,4 @@ import math
 base = float(input('Me diga quanto mede a base do seu triângulo retângulo: '))
 altura = float(input('Me diga quanto mede a altura do seu triângulo retângulo: '))
 hip = math.hypot(base, altura)
-print('A hipotenusa do seu triângulo equivale a {}.'.format(hip))
+print('A hipotenusa do seu triângulo equivale a {:.2f}.'.format(hip))
